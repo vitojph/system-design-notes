@@ -33,7 +33,7 @@ The system targets **50 million daily active users (DAU)** and stores chat histo
 
       <div style="margin-left:2rem">
       <img src="./images/basic-design.png" alt="Basic Design" width="500">    
-      <div>
+      </div>
 
 2. **Receiver Side:**
    - **Polling:**
